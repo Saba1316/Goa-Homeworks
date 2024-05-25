@@ -3,11 +3,11 @@ from turtle import *
 
 #we want to paint a house
 
-#step 1: draw a square
+#step 1: draw a triangle
 
 speed(10)
 
-width(7)
+width(10)
 color("purple")
 
 forward(200)
