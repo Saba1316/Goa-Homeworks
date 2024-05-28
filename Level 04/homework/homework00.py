@@ -1,7 +1,7 @@
 from turtle import *
     
 
-#I want to paint a castle
+# Painting a castle with king and queen
 
 
 #step 1:draw a rectangle
@@ -10,7 +10,7 @@ from turtle import *
 
 speed(0)
 
-
+bgcolor("skyblue")
 
 
 penup()
