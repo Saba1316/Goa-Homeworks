@@ -1,4 +1,7 @@
-# task 1: გაიხსენეთ რას აკეთებს მნიშვნელობის გადაწერა (reassign), მოიყვანეთ მაგალითი და დაუწერეთ კომენტარები
+# task 1: Remember what reassign does, give an example, and write comments
+
+# Reassignment is the same as overwriting or updating,a value.
+
 
 num = 13
 num = num + 16
@@ -6,10 +9,6 @@ num = num + 16
 print(num)
       
       
-# task 1:  გაიხსენეთ დღეს ნასწავლი best practice'ბი და ახსენით რატომ ვიყენებთ თითოეულს (snake_case, case-sensitive'ობა, comments) 
 
-# Snake_Case არის დასახელება რომელშიც თითოეული სპეისი იცვლება ქვედა ხაზით და სიტყვები იწერება პატარა ასოებით
-# Cases sensitivoba არის როდესაც ყველა სიტყვა ან პატარა ასოებიტ იწაერება ან დიდი ასოებით რათა კომპიუტერმა შეძლოს მისი ამოცნობა
-#comments გამოიყენება იმისთის რომ ავღწეროთ ან დავახასიათოთ ჩვენი კოდი
 
 

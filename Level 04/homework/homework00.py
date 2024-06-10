@@ -1,3 +1,6 @@
+# In turtle, draw the palace, king and queen, place the GOA flag on the tower.
+
+
 from turtle import *
     
 
