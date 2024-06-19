@@ -7,8 +7,3 @@ num = 13
 num = num + 16
 
 print(num)
-      
-      
-
-
-

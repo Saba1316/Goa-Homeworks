@@ -4,6 +4,9 @@ user_age = 20
 # Snake_Case is a name in which each space is replaced by an underscore and words are written in lowercase letters
 
 name = "Saba"
-print(Name)
-# Case sensitive is when all words are either lowercase or uppercase so that the computer can recognize it.
-# comments are used to describe or characterize our code
+print("Name")
+# Case sensitivity means that uppercase and lowercase letters are considered different. in this case "name" and "Name" are considered two different variables.
+
+score = 100    # I declared an integer type variable named score and assigned it the value 100.
+
+# Comments are used to describe or characterize our code.

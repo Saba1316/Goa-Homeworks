@@ -11,3 +11,5 @@ print = input(("num2: "))
 print = input(("num1 > num2: "))
 print = input(("num1 < num2: "))
 print = input(("num2 = num1: "))
+
+# The end of task 4

@@ -13,7 +13,3 @@ print("First dog's name is" + " " + dog_name1 + ". " + "Second dog's name is" + 
 # These best practices were necessary for the computer to read this code as soon as possible and understandably
 
 # And in this code, we first declared the variables and then concatenated those names to form a sentence
-
-
-
-
