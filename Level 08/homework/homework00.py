@@ -1,4 +1,4 @@
-# task 1:As we did in class, test these three things like this: !=, >=, <=.
+# task 0: As we did in class, test these three things: !=, >=, <=.
 
 # Let's start with !=
 
@@ -15,4 +15,4 @@ print(20 >= 20) # True
 print(16 <= 13) # False
 print(100 <= 100) # True
 
-# The end of task 1
+# The end of task 0

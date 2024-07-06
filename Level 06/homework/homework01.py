@@ -1,15 +1,15 @@
-# Task 2: Declare a user account. Enter first name, last name, age and password. Put it all on the screen.
+# Task 1: Declare a user account. Enter first name, last name, age and password. Put it all on the screen.
 
 
 
-# At first let's declare first name
-print = input(("Enter your first name: "))
-# Then Last name
-print = input(("Enter your last name: "))
-# Now let's declare age of user 
-print = input(("Enter your age: "))
-# And in the last let's declare password of user account
-print = input(("Make your password: "))
+# At first let's take user's name as input and then output it.
+print(input("Enter your first name: "))
+# Now let's take user's last name as input and then output it.
+print(input("Enter your last name: "))
+# Now let's take user's age as input and then output it.
+print(input("Enter your age: "))
+# Lastly let's take user's password as input and then output it.
+print(input("Enter your password: "))
 
 
-# The end of task 3
+# The end of task 1

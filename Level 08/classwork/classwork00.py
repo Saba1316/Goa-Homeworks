@@ -1,4 +1,4 @@
-# task 1: Test comparison operations (<, >, ==)
+# task 0: Test comparison operations (<, >, ==)
 
 # Let's start with <.
 
@@ -12,7 +12,7 @@ print(50 > 100) # False
 
 # And then last one ==
 
-print(13==13) # True
-print(13==16) # False
+print(13 == 13) # True
+print(13 == 16) # False
 
-# End of task 1
+# End of task 0
