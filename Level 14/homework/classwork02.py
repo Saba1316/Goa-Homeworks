@@ -4,3 +4,5 @@ list1 = [2, 51, 11, 13, 51, 100]
 
 list1[5] = "Hello"
 print(list1)
+
+# The end of task 2.

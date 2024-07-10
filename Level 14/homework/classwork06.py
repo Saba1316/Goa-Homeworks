@@ -3,3 +3,5 @@
 list1 = [2, 51, 11, 13, 51, 100]
 
 print(list1[2:4])
+
+# The end of task 6.
