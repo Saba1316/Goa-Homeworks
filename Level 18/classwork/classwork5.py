@@ -8,4 +8,4 @@ def discount(age):
         print("You can get discount")
 
         
-input(int("Enter your age: "))
+discount(20)

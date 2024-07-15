@@ -1,8 +1,8 @@
 # Task 2: Replace the last element of a list with a new value.
 
-list1 = [2, 51, 11, 13, 51, 100]
+numbers = [2, 51, 11, 13, 51, 100]
 
-list1[5] = "Hello"
-print(list1)
+numbers[5] = "Hello"
+print(numbers)
 
 # The end of task 2.

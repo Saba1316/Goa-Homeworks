@@ -1,8 +1,8 @@
 # Task 3: Replace the fifth element of a list with a new value.
 
-list1 = [2, 51, 11, 13, 51, 100]
+numbers = [2, 51, 11, 13, 51, 100]
 
-list1[4] = 1000
-print(list1)
+numbers[4] = 1000
+print(numbers)
 
 # The end of task 3.
