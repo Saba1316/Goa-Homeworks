@@ -6,7 +6,7 @@ num_sum = 0
 while num < 10:
     num_sum += num
     num += 1
-    
+
 print(num_sum)
 
 # The end of task 2
